@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Leo</h1>
-<h3 align="center">A developer, photographer, hardware technician and occasionally filmmaker from Germany</h3>
+<h3 align="center">I am a developer, photographer, hardware technician and occasionally filmmaker from Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
