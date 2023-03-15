@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![React](https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
