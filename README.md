@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">I am a web developer and photographer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allbutgold" alt="allbutgold" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leo kieffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo kieffer" height="30" width="40" /></a>
